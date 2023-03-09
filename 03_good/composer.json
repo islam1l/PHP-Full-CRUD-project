@@ -1,0 +1,17 @@
+{
+    "name": "islam-elsayed/03_good",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "islam-elsayed",
+            "email": "islamelsayedmahmoud5@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}

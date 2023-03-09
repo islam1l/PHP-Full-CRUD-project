@@ -1,0 +1,17 @@
+{
+    "name": "islam-elsayed/autoloading",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    },
+    "authors": [
+        {
+            "name": "islam-elsayed",
+            "email": "islamelsayedmahmoud5@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
